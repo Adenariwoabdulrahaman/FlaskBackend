@@ -1,4 +1,4 @@
-from experta import *
+from experta import KnowledgeEngine, Fact, Field, Rule, MATCH
 
 class Diagnosis(Fact):
     """Fact class representing a single symptom input."""
