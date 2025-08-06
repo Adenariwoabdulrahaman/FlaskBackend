@@ -1,5 +1,5 @@
-from flask import Flask, request, jsonify
-from flask_cors import CORS
+from flask import Flask, request, jsonify # type: ignore
+from flask_cors import CORS # type: ignore
 from db_config import get_db_connection
 from rules import PestDiseaseExpert
 
