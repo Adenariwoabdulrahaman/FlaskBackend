@@ -4,7 +4,7 @@ colorama==0.4.6
 experta==1.9.4
 flask==3.1.1
 flask-cors==6.0.1
-frozendict==2.4.0
+frozendict==1.2
 gunicorn==23.0.0
 importlib-metadata==8.7.0
 itsdangerous==2.2.0
